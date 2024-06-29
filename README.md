@@ -8,3 +8,6 @@ We padded images to ensure divisibility by 224 (e.g., from 1024x1360 to 1024x156
 ## Results
 After training, our DeepLabV3 model achieved a validation accuracy of 39% on the test dataset. Loss curves and other metrics are visualized in the results/ directory.
 
+## Contact
+For questions or collaborations, feel free to reach out at suraj.prasad@iitb.ac.i.
+
